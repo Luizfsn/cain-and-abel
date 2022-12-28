@@ -1,4 +1,4 @@
-# cain and abel
+# Cain and Abel
 
 **Welcome to the Cain and Abel!**
 
